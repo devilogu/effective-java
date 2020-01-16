@@ -12,3 +12,6 @@
 ### 마크다운 작성 규칙
 - 상단에 목차를 작성한다
 - 하단에 참고한 레퍼런스를 명시한다
+
+### Git Bash 명령어
+checkout ohhako - item 작성 - commit, push - checkout master - pull - merge ohhako - push master
