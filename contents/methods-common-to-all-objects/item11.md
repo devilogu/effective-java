@@ -24,6 +24,8 @@ Object 클래스로부터 상속받은 hashCode()와  equals()를 모두 overri
 
 ### **1️⃣ hash(), hashCode()란?**
 
+![Hash Architecture](./images/item11-hash-architecture.png)
+
 #### ****1.  HashMap/HashTable****
 
 \- 연관배열구조를 이용한 **key에 value를 저장**하는 자료구조입니다.
